@@ -1,5 +1,10 @@
 = Capsule
 
+<b>This project is retired.</b> Since version 3.1, Ruby can load a
+script into a module itself: <tt>load("myscript.rb", mod)</tt> puts the
+script's top-level constants and methods in +mod+. The gem remains on
+RubyGems and the code remains here for reference.
+
 {Homepage}[home: http://rubyworks.github.com/capsule] |
 {Documentation}[http://rubydoc.info/gems/capsule] |
 {Development}[http://github.com/rubyworks/capsule] |
